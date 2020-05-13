@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/training-catalogue/static/css/main.b8ab1321.chunk.css",
-    "main.js": "/training-catalogue/static/js/main.20c73fc6.chunk.js",
-    "main.js.map": "/training-catalogue/static/js/main.20c73fc6.chunk.js.map",
+    "main.js": "/training-catalogue/static/js/main.6810dee0.chunk.js",
+    "main.js.map": "/training-catalogue/static/js/main.6810dee0.chunk.js.map",
     "runtime-main.js": "/training-catalogue/static/js/runtime-main.29c1e2e0.js",
     "runtime-main.js.map": "/training-catalogue/static/js/runtime-main.29c1e2e0.js.map",
     "static/js/2.1b754925.chunk.js": "/training-catalogue/static/js/2.1b754925.chunk.js",
     "static/js/2.1b754925.chunk.js.map": "/training-catalogue/static/js/2.1b754925.chunk.js.map",
     "index.html": "/training-catalogue/index.html",
-    "precache-manifest.da4d3c6c4dad88d85a0c62496bfe4e78.js": "/training-catalogue/precache-manifest.da4d3c6c4dad88d85a0c62496bfe4e78.js",
+    "precache-manifest.78069adf7c36bb01f17c4efe37e57e1e.js": "/training-catalogue/precache-manifest.78069adf7c36bb01f17c4efe37e57e1e.js",
     "service-worker.js": "/training-catalogue/service-worker.js",
     "static/css/main.b8ab1321.chunk.css.map": "/training-catalogue/static/css/main.b8ab1321.chunk.css.map",
     "static/js/2.1b754925.chunk.js.LICENSE.txt": "/training-catalogue/static/js/2.1b754925.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.29c1e2e0.js",
     "static/js/2.1b754925.chunk.js",
     "static/css/main.b8ab1321.chunk.css",
-    "static/js/main.20c73fc6.chunk.js"
+    "static/js/main.6810dee0.chunk.js"
   ]
 }
