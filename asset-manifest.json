@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/training-catalogue/static/css/main.1db7e5ee.chunk.css",
-    "main.js": "/training-catalogue/static/js/main.6810dee0.chunk.js",
-    "main.js.map": "/training-catalogue/static/js/main.6810dee0.chunk.js.map",
+    "main.css": "/training-catalogue/static/css/main.8e40ce36.chunk.css",
+    "main.js": "/training-catalogue/static/js/main.640fa8e7.chunk.js",
+    "main.js.map": "/training-catalogue/static/js/main.640fa8e7.chunk.js.map",
     "runtime-main.js": "/training-catalogue/static/js/runtime-main.29c1e2e0.js",
     "runtime-main.js.map": "/training-catalogue/static/js/runtime-main.29c1e2e0.js.map",
-    "static/js/2.1b754925.chunk.js": "/training-catalogue/static/js/2.1b754925.chunk.js",
-    "static/js/2.1b754925.chunk.js.map": "/training-catalogue/static/js/2.1b754925.chunk.js.map",
+    "static/js/2.159e5e9d.chunk.js": "/training-catalogue/static/js/2.159e5e9d.chunk.js",
+    "static/js/2.159e5e9d.chunk.js.map": "/training-catalogue/static/js/2.159e5e9d.chunk.js.map",
     "index.html": "/training-catalogue/index.html",
-    "precache-manifest.19f010f996f9791a817049124e889aed.js": "/training-catalogue/precache-manifest.19f010f996f9791a817049124e889aed.js",
+    "precache-manifest.5ebdac9ee0971182a2901f11891474e3.js": "/training-catalogue/precache-manifest.5ebdac9ee0971182a2901f11891474e3.js",
     "service-worker.js": "/training-catalogue/service-worker.js",
-    "static/css/main.1db7e5ee.chunk.css.map": "/training-catalogue/static/css/main.1db7e5ee.chunk.css.map",
-    "static/js/2.1b754925.chunk.js.LICENSE.txt": "/training-catalogue/static/js/2.1b754925.chunk.js.LICENSE.txt",
+    "static/css/main.8e40ce36.chunk.css.map": "/training-catalogue/static/css/main.8e40ce36.chunk.css.map",
+    "static/js/2.159e5e9d.chunk.js.LICENSE.txt": "/training-catalogue/static/js/2.159e5e9d.chunk.js.LICENSE.txt",
     "static/media/cabana.png": "/training-catalogue/static/media/cabana.b17839a4.png",
     "static/media/card8.png": "/training-catalogue/static/media/card8.c93e6d3b.png",
     "static/media/corbel.png": "/training-catalogue/static/media/corbel.c77ffae5.png",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.29c1e2e0.js",
-    "static/js/2.1b754925.chunk.js",
-    "static/css/main.1db7e5ee.chunk.css",
-    "static/js/main.6810dee0.chunk.js"
+    "static/js/2.159e5e9d.chunk.js",
+    "static/css/main.8e40ce36.chunk.css",
+    "static/js/main.640fa8e7.chunk.js"
   ]
 }
